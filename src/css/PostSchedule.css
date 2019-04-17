@@ -1,0 +1,28 @@
+.ui.grid > .row > .column > img,
+.ui.grid > .row > img {
+  max-width: 35px;
+  margin-right: 8px;
+}
+
+span.team {
+  position: absolute;
+  top: 20px;
+  margin-right: 10px;
+}
+
+body {
+  font-size: 10px;
+}
+
+.ui.grid > .column:only-child,
+.ui.grid > .row > .column:only-child {
+  border-bottom: 1px solid #d7d7d7;
+}
+
+h3.series-description {
+  margin-top: 30px;
+}
+
+h4.ui.horizontal.divider.header {
+  margin-top: 10rem;
+}

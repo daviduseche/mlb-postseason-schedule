@@ -1,0 +1,121 @@
+.img-header {
+  max-width: 400px;
+}
+
+.header-logo {
+  text-align: center;
+  border-bottom: 1px solid #d7d7d7;
+  padding-bottom: 20px;
+}
+
+.bracket-schedule {
+  min-height: 600px;
+  display: inline-block;
+}
+
+.wildcard-one,
+.wildcard-one-top {
+  width: 100px;
+  border: 1px solid gray;
+  border-left: none;
+  min-height: 100px;
+  display: inline-block;
+}
+
+.winner-bracket-arrow {
+  display: inline-block;
+  width: 100px;
+  position: relative;
+  top: 60px;
+  min-height: 125px;
+  border: 1px solid gray;
+  border-left: none;
+}
+
+.alcs-bracket,
+.alcs-bracket-top {
+  display: inline-block;
+  border: 1px solid gray;
+  width: 125px;
+  min-height: 300px;
+  border-left: none;
+}
+
+.wildcard-one-top,
+.alcs-bracket-top {
+  visibility: hidden;
+}
+
+.bracket-logo,
+.bracket-logo-top {
+  max-width: 60px;
+}
+
+.bracket-logo.wild-alds,
+img.bracket-logo-top.wild-alds {
+  position: relative;
+  bottom: 30px;
+  right: 35px;
+}
+
+img.bracket-logo.wild-al {
+  position: relative;
+  top: 35px;
+  right: 35px;
+}
+
+.bottom-alds {
+  position: relative;
+  top: 30px;
+  right: 8px;
+}
+
+.top-alds {
+  position: relative;
+  bottom: 30px;
+}
+
+.nlcs-bracket {
+  display: inline-block;
+  width: 125px;
+  border: 1px solid gray;
+  height: 100px;
+  border-right: none;
+  min-height: 300px;
+}
+
+.bottom-cs {
+  position: relative;
+  right: 9.25rem;
+  top: 2rem;
+}
+
+.top-cs {
+  position: relative;
+  bottom: 19rem;
+  right: 14rem;
+}
+
+.series-id {
+  position: relative;
+  bottom: 10rem;
+  right: 2rem;
+}
+
+.top-nlcs {
+  position: relative;
+  bottom: 26em;
+  right: 30em;
+}
+
+.bottom-nlcs {
+  position: relative;
+  right: 23em;
+  top: 2em;
+}
+
+.nlcs-id {
+  position: relative;
+  bottom: 14em;
+  right: 20em;
+}
